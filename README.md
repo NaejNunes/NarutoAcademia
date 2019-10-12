@@ -4,10 +4,10 @@ Jogo desenvolvido em unity2D e programação C#. Com o intuito acadêmico.
 ![NarutoAcademiaMenu](https://github.com/NaejNunes/NarutoAcademia/blob/master/Imagens/NarutoAcademiaMenu.png?raw=true)
 
 #### Plataforma
--PC
+- PC
 
 #### O Jogo
--Naruto Academia leva o jogador a ser um aluno na escola do universo Naruto. Aprendendo as posições de mãos que formão um grande Ninja.
+- Naruto Academia leva o jogador a ser um aluno na escola do universo Naruto. Aprendendo as posições de mãos que formão um grande Ninja.
 
 #### Jogando
 ![GamePlay](https://github.com/NaejNunes/NarutoAcademia/blob/master/Imagens/GamePlay.png?raw=true)
