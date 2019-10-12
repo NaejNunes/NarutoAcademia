@@ -3,6 +3,8 @@ Jogo desenvolvido em unity2D e programação C#. Com o intuito acadêmico.
 
 ![NarutoAcademiaMenu](https://github.com/NaejNunes/NarutoAcademia/blob/master/Imagens/NarutoAcademiaMenu.png?raw=true)
 
+**Naruto Academia**
+
 ###Plataforma
 -PC
 
