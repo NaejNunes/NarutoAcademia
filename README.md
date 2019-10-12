@@ -1,6 +1,6 @@
 # NarutoAcademia
 
-####Desenvolvido por: Jean Nunes
+#### Desenvolvido por: Jean Nunes
 
 Jogo desenvolvido em unity2D e programação C#. Com o intuito acadêmico.
 
